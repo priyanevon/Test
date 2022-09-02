@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 #SECRET_KEY = '$@_u=e0v-fp9=(%8!@#df^*int037o0v*h-@ywkcar&d@$t$f7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['pythondemo.azurewebsites.net']
 
