@@ -20,10 +20,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '$@_u=e0v-fp9=(%8!@#df^*int037o0v*h-@ywkcar&d@$t$f7'
+#SECRET_KEY = '$@_u=e0v-fp9=(%8!@#df^*int037o0v*h-@ywkcar&d@$t$f7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['pythondemo.azurewebsites.net']
 
